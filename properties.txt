@@ -1,0 +1,4 @@
+table_tag = table
+table_id = scores
+row_tag = tr
+cell_tag = input
